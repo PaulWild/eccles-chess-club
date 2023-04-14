@@ -13,8 +13,8 @@ const Home: NextPage = () => {
           <div className={styles.standard}>
             <h3>
               <em>
-                "Eccles chess players exhibit clarity of thought, decisive
-                action and the determination to win..."
+                &quot;Eccles chess players exhibit clarity of thought, decisive
+                action and the determination to win...&quot;
               </em>
             </h3>
             <h4>

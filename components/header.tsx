@@ -42,7 +42,7 @@ const Header = () => {
               <Link href="/">Home</Link>
             </li>
             <li>
-              <Link href="/About">About</Link>
+              <Link href="/">About</Link>
             </li>
             <li>
               <Link href="/">Membership & Results</Link>
@@ -54,11 +54,11 @@ const Header = () => {
               <Link href="/">Team</Link>
             </li>
             <li>
-              <Link href="/fixtures">Member's Grading</Link>
+              <Link href="/">Member&apos;s Grading</Link>
             </li>
 
             <li>
-              <Link href="/history">Contact & Join</Link>
+              <Link href="/">Contact & Join</Link>
             </li>
           </ul>
         </div>
