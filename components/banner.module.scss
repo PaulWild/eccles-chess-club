@@ -1,10 +1,9 @@
 .banner {
-  width: 60vw;
+  max-width: 1366px;
   height: 700px;
   position: relative;
   object-fit: cover;
-  justify-content: center;
-  margin: 0 20% 0 20%;
+  margin: auto;
 
   @media screen and (max-width: 1366px) {
     width: 100vw;
