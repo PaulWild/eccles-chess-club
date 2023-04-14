@@ -1,0 +1,24 @@
+.banner {
+  width: 60vw;
+  height: 700px;
+  position: relative;
+  object-fit: cover;
+  justify-content: center;
+  margin: 0 20% 0 20%;
+
+  @media screen and (max-width: 1366px) {
+    width: 100vw;
+    height: 600px;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 768px) {
+    width: 100vw;
+    height: 400px;
+    margin: 0;
+  }
+
+  .bannerImage {
+    object-fit: cover;
+  }
+}
