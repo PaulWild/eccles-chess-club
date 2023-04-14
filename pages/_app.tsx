@@ -8,8 +8,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Urmston Chess Club</title>
-        <meta name="description" content="Umrston chess club" />
+        <title>Eccles Chess Club</title>
+        <meta name="description" content="Eccles chess club" />
       </Head>
 
       <Header />
